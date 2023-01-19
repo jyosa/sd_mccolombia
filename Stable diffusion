@@ -1,0 +1,17 @@
+Stable Diffusion v2.1
+
+Stable Diffusion es un modelo de de aprendizaje profundo texto a imagen lanzado en 2022. Se utiliza principalmente para generar imágenes detalladas condicionadas a descripciones de texto, aunque también se puede aplicar a otras tareas como pintar, pintar y generar imágenes a imágenes.
+
+Stable Diffusion es un modelo de difusión latente, una variedad de red neuronal generativa profunda desarrollada por el grupo CompVis en LMU Munich. El modelo ha sido lanzado por una colaboración de Stability AI, CompVis LMU y Runway con el apoyo de EleutherAI y LAION.
+
+El código y el modelo de Stable Diffusion se han publicado y puede ejecutarse en la mayoría de los equipos de consumo equipados con una GPU con al menos 8 GB de RAM. Esto marcó una desviación de los modelos de texto a imagen patentados anteriores, como DALL-E y Midjourney, a los que solo se podía acceder a través de servicios en la nube.
+
+El Stable Diffusion V1 original dirigido por CompVis cambió la naturaleza de los modelos de IA de código abierto y generó cientos de otros modelos e innovaciones en todo el mundo. Tuvo uno de los ascensos más rápidos a 10 000 estrellas Github de cualquier software, alcanzando las 33 000 estrellas en menos de dos meses.
+
+La versión Stable Diffusion 2.0 incluye modelos robustos de texto a imagen entrenados con un codificador de texto completamente nuevo (OpenCLIP), desarrollado por LAION con el apoyo de Stability AI, que mejora en gran medida la calidad de las imágenes generadas en comparación con las versiones anteriores de V1. Los modelos de texto a imagen de esta versión pueden generar imágenes con resoluciones predeterminadas de 512x512 píxeles y 768x768 píxeles.
+
+Estos modelos se entrenan en un subconjunto estético del conjunto de datos LAION-5B creado por el equipo de DeepFloyd en Stability AI, que luego se filtra aún más para eliminar el contenido para adultos utilizando el filtro NSFW de LAION. [1]
+
+[1] https://stability.ai/blog/stable-diffusion-v2-release
+
+
